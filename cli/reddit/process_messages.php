@@ -130,7 +130,7 @@ try {
                         }else {
                             // $msg  = "<< PARSE MSG, NO MATCH >>: [" . $m['message'] . "] \n";
                             // $msg .= "\n------------------------------------------\n";
-                            $msg = "Sorry, I couldn't find the amount of XRP to tip... Plase use the format as described in the **[Howto](https://www.xrptipbot.com/howto)**";
+                            $msg = "Sorry, I couldn't find the amount of XRP to tip... Please use the format as described in the **[Howto](https://www.xrptipbot.com/howto)**";
                             // $msg = '';
                         }
                     }
